@@ -31,3 +31,13 @@ Internship Reviewer Application (INTERNOVA)
 
 **6. Features and functionalities**
 
+
+## Requirement Analysis
+
+**1. Technical Feasibility/Back-End Assessments**
+
+**2. App Compatibility**
+
+**3. Sequence Diagram**
+
+**4. Screen Navigation Flow**
