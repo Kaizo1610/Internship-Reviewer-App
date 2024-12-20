@@ -18,10 +18,10 @@ This project is a mobile application developed using Flutter, designed to help s
 Internship Reviewer Application (INTERNOVA)
 
 **2. Background of the problem**
-1) **Unstructured Feedback:** Interns often don’t receive consistent or organized feedback on their performance.
-2) **Poor Communication:** Interns lack clear channels to communicate with mentors or supervisors.
-3) **Inconsistent Evaluations:** Internship assessments vary widely, leading to unfair evaluations.
-4) **Tracking Progress:** It’s difficult for both interns and employers to track progress and achievements during the internship.
+a) **Unstructured Feedback:** Interns often don’t receive consistent or organized feedback on their performance.
+b) **Poor Communication:** Interns lack clear channels to communicate with mentors or supervisors.
+c) **Inconsistent Evaluations:** Internship assessments vary widely, leading to unfair evaluations.
+d) **Tracking Progress:** It’s difficult for both interns and employers to track progress and achievements during the internship.
 
 **3. Purpose or objective**
 
