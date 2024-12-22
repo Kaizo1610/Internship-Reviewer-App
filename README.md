@@ -1,4 +1,4 @@
-# Internship-Reviewer-App (INTERNOVA)
+# Internship-Reviewer-App *(INTERNOVA)*
 This project is a mobile application developed using Flutter, designed to help students review and rate their internship experiences. The app allows users to provide feedback on various aspects of their internships, including company environment, mentorship, and skill development.
 
 # Group Details
@@ -70,6 +70,23 @@ With Firebase serving as the back-end, Internova will use Flutter for cross-plat
 
 **2. App Compatibility**
 
+a) *Operating System Compatibility*
+- Minimum Android Version: Android 8.0 (Oreo) and above.
+- The app will be optimized for the most common Android versions to ensure maximum reach among users.
+
+b) *Device Compatibility*
+- Smartphones and Tablets
+
+c) *Hardware Compatibility*
+- Touchscreen: The app will be designed with touchscreen optimization, supporting taps, swipes, and gestures for easy navigation.
+
+d) *Firebase Backend Compatibility*
+- Firebase Authentication: Seamlessly integrates with Android’s native authentication methods.
+- Firebase Firestore: Optimized for fast, real-time data sync for feedback, internship logs, and notifications.
+- Firebase Storage: Supports document uploads and sharing via Firebase Cloud Storage for resumes, reports, and certificates.
+
+e) *Push Notifications Compatibility*
+- Integrated with Firebase Cloud Messaging (FCM) for sending push notifications directly to Android devices, ensuring real-time alerts for feedback, log updates, and reminders.
 
 **3. Sequence Diagram**
 
