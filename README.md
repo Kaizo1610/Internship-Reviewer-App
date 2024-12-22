@@ -70,6 +70,7 @@ With Firebase serving as the back-end, Internova will use Flutter for cross-plat
 
 
 **2. App Compatibility**
+
 a) *Operating System Compatibility*
 - Minimum Android Version: Android 8.0 (Oreo) and above.
 - The app will be optimized for the most common Android versions to ensure maximum reach among users.
