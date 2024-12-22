@@ -31,27 +31,27 @@ Internship Reviewer Application (INTERNOVA)
 With Firebase serving as the back-end, Internova will use Flutter for cross-platform development with an eye towards Android. This strategy complies with market trends for affordable, high-performing mobile solutions while guaranteeing accessibility for students and young professionals. It has responsive features like document sharing, progress monitoring, and real-time feedback and is portable.
 
 **6. Features and functionalities** <br/>
-*Authentication:*
+📲 *Authentication:*
 - User login and registration with Firebase Authentication (supporting email, Google, or social logins).
 - Secure authentication flow with email verification and password reset options.
 
-*User Profiles:*
+📲 *User Profiles:*
 - Profile creation and editing for interns and employers, stored in Firebase Firestore.
 - Fields for interns' skills, interests, and past internship experiences; employer-specific details for companies.
 
-*Internship Details and Logs:*
+📲 *Internship Details and Logs:*
 - View detailed internship descriptions, requirements, and mentor details fetched from Firestore.
 - A progress log for interns to add daily or weekly updates, with timestamps and supervisor comments.
 
-*Feedback Page:*
+📲 *Feedback Page:*
 - Structured feedback templates for mentors and peers.
 - Real-time updates using Firebase Real-time Database or Firestore.
 - Option for anonymous feedback submission to encourage honest input.
 
-*Notifications:*
+📲 *Notifications:*
 - In-app and push notifications using Firebase Cloud Messaging (FCM) for new feedback, updates on logs, and reminders for document uploads.
 
-*Document Upload and Sharing:*
+📲 *Document Upload and Sharing:*
 - Upload resumes, reports, or certificates directly to Firebase Storage.
 - Share documents with mentors or employers via in-app links or external sharing options.
 
@@ -59,10 +59,10 @@ With Firebase serving as the back-end, Internova will use Flutter for cross-plat
 ## Requirement Analysis
 
 **1. Technical Feasibility/Back-End Assessments** <br/>
-*Platform:*
+🔖 *Platform:*
 - Flutter: Enables rapid development with reusable widgets, ensuring consistent UI across Android devices.
 
-*Back-end and Infrastructure:*
+🔖 *Back-end and Infrastructure:*
 - Firebase Authentication: Simplifies user login/registration workflows.
 - Firebase Firestore: Serves as the primary database for storing user profiles, logs, internship details, and feedback.
 - Firebase Storage: Manages document uploads and sharing securely.
@@ -78,15 +78,15 @@ With Firebase serving as the back-end, Internova will use Flutter for cross-plat
 🎯 *Device Compatibility*
 - Smartphones and Tablets
 
-c) *Hardware Compatibility*
+🎯 *Hardware Compatibility*
 - Touchscreen: The app will be designed with touchscreen optimization, supporting taps, swipes, and gestures for easy navigation.
 
-d) *Firebase Backend Compatibility*
+🎯 *Firebase Backend Compatibility*
 - Firebase Authentication: Seamlessly integrates with Android’s native authentication methods.
 - Firebase Firestore: Optimized for fast, real-time data sync for feedback, internship logs, and notifications.
 - Firebase Storage: Supports document uploads and sharing via Firebase Cloud Storage for resumes, reports, and certificates.
 
-e) *Push Notifications Compatibility*
+🎯 *Push Notifications Compatibility*
 - Integrated with Firebase Cloud Messaging (FCM) for sending push notifications directly to Android devices, ensuring real-time alerts for feedback, log updates, and reminders.
 
 
