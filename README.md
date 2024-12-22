@@ -85,9 +85,10 @@ With Firebase serving as the back-end, Internova will use Flutter for cross-plat
 - Firebase Authentication: Seamlessly integrates with Android’s native authentication methods.
 - Firebase Firestore: Optimized for fast, real-time data sync for feedback, internship logs, and notifications.
 - Firebase Storage: Supports document uploads and sharing via Firebase Cloud Storage for resumes, reports, and certificates.
+- Firebase Cloud Messaging (FCM): Sending push notifications directly to Android devices, ensuring real-time alerts for feedback, log updates, and reminders.
 
-🎯 *Push Notifications Compatibility*
-- Integrated with Firebase Cloud Messaging (FCM) for sending push notifications directly to Android devices, ensuring real-time alerts for feedback, log updates, and reminders.
+🎯 *App Updates Compatibility*
+- Regular Updates: The app will be updated regularly to stay compatible with new Android versions, ensuring long-term support for future Android OS releases.
 
 
 **3. Sequence Diagram**
