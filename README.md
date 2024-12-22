@@ -68,8 +68,8 @@ With Firebase serving as the back-end, Internova will use Flutter for cross-plat
 - Firebase Storage: Manages document uploads and sharing securely.
 - Firebase Cloud Messaging (FCM): Handles push notifications for engagement.
 
-**2. App Compatibility**
 
+**2. App Compatibility**
 a) *Operating System Compatibility*
 - Minimum Android Version: Android 8.0 (Oreo) and above.
 - The app will be optimized for the most common Android versions to ensure maximum reach among users.
@@ -87,6 +87,7 @@ d) *Firebase Backend Compatibility*
 
 e) *Push Notifications Compatibility*
 - Integrated with Firebase Cloud Messaging (FCM) for sending push notifications directly to Android devices, ensuring real-time alerts for feedback, log updates, and reminders.
+
 
 **3. Sequence Diagram**
 
