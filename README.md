@@ -145,6 +145,8 @@ With Firebase serving as the back-end, Internova will use Flutter for cross-plat
 
 **3. Sequence Diagram**
 
+<img src="Sequence Diagram.png" alt="Sequence Diagram" width="700" height="500">
+
 
 **4. Screen Navigation Flow**
 
@@ -162,23 +164,17 @@ With Firebase serving as the back-end, Internova will use Flutter for cross-plat
 
 ## References
 
-i) Smith, J. (2020). Improving Internship Programs: Addressing Communication and Feedback Challenges. Journal of Workplace Learning, 32(5), 345–360. https://doi.org/10.1108/JWL-05-2020-1234
+i) GradLeaders. (n.d.). Top 10 Internship Challenges Employers Face Today and the #1 Solution to Recruiting, Managing, and Converting Interns. Retrieved from https://www.gradleaders.com/top-10-internship-challenges-employers-face-today-and-the-1-solution-to-recruiting-managing-and-converting-interns-2/
 
-ii) Johnson, R., & Lee, M. (2019). Evaluation Practices in Internship Programs: Ensuring Fairness and Consistency. International Journal of Internship Research, 10(3), 215–230. https://doi.org/10.1016/ijir.2019.08.015
+ii) Betternship. (2024). Effective Internship Evaluation Strategies in 2024. Retrieved from https://www.betternship.com/effective-internship-evaluation-strategies-in-2024/
 
-iii) Garcia, P. (2021). Mentorship and Feedback in Internships: Enhancing Communication for Better Outcomes. Career Development Quarterly, 69(4), 412–428. https://doi.org/10.1002/cdq.12345
+iii) National Association of Colleges and Employers (NACE). (n.d.). 15 Best Practices for Internship Programs. Retrieved from https://www.naceweb.org/talent-acquisition/internships/15-best-practices-for-internship-programs/
 
-iv) 
+iv) InternBridge. (n.d.). Internship Program Best Practices: Creating a High-Impact Internship Program. Retrieved December 23, 2024, from https://internbridge.com
 
-v) 
+v) Google. (2024). Flutter Documentation. Retrieved December 23, 2024, from https://flutter.dev/docs
 
-vi) 
+vi) Firebase. (n.d.). Firebase Documentation. Google. Retrieved December 23, 2024, from https://firebase.google.com/docs
 
-vii) 
-
-viii)
-
-ix) Firebase. (n.d.). Firebase Documentation. Google. Retrieved December 23, 2024, from https://firebase.google.com/docs
-
-x) Google. (2024). Android Developers: Compatibility and Support. Retrieved December 23, 2024, from https://developer.android.com/guide
+vii) Google. (2024). Android Developers: Compatibility and Support. Retrieved December 23, 2024, from https://developer.android.com/guide
 
