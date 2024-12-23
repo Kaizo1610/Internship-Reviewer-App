@@ -149,7 +149,7 @@ With Firebase serving as the back-end, Internova will use Flutter for cross-plat
 
 **3. Sequence Diagram**
 
-<img src="Sequence Diagram.png" alt="Sequence Diagram" width="700" height="500">
+<img src="Sequence Diagram.png" alt="Sequence Diagram" width="700" height="1000">
 
 
 **4. Screen Navigation Flow**
