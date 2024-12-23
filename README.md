@@ -81,6 +81,7 @@ The **INTERNOVA** platform is designed for the following groups:
 **5. Preferred platform** 
 
 With Firebase serving as the back-end, Internova will use Flutter for cross-platform development with an eye towards Android. This strategy complies with market trends for affordable, high-performing mobile solutions while guaranteeing accessibility for students and young professionals. It has responsive features like document sharing, progress monitoring, and real-time feedback and is portable.
+</br></br>
 
 **6. Features and functionalities** 
 
