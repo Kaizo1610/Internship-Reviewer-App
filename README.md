@@ -17,8 +17,6 @@ This project is a mobile application developed using Flutter, designed to help s
 **1. Title:**
 Internship Reviewer Application (INTERNOVA)
 
---
-
 **2. Background of the problem**
 - *Unstructured Feedback:* Interns often don’t receive consistent or organized feedback on their performance.
 - *Poor Communication:* Interns lack clear channels to communicate with mentors or supervisors.
@@ -52,7 +50,7 @@ An intern submits a project through the platform. The supervisor:
 The intern:  
 - Views the feedback on their dashboard.  
 - Replies with questions or clarifications through the messaging feature.  
-- Checks their progress on a visual chart.  
+- Check their progress on a visual chart.  
 
 Both parties stay updated and aligned on the intern's performance and goals throughout the internship.  
 
