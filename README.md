@@ -19,10 +19,10 @@ Internship Reviewer Application (INTERNOVA)
 
 **2. Background of the problem**
 
-- *Unstructured Feedback:* Interns often don’t receive consistent or organized feedback on their performance.
-- *Poor Communication:* Interns lack clear channels to communicate with mentors or supervisors.
-- *Inconsistent Evaluations:* Internship assessments vary widely, leading to unfair evaluations.
-- *Tracking Progress:* It’s difficult for both interns and employers to track progress and achievements during the internship.
+- Interns often don’t receive consistent or organized feedback on their performance.
+- Interns lack clear channels to communicate with mentors or supervisors.
+- Internship assessments vary widely, leading to unfair evaluations.
+- It’s difficult for both interns and employers to track progress and achievements during the internship.
 
 **3. Purpose or objective**
 
