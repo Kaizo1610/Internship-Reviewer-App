@@ -176,11 +176,13 @@ ii) Betternship. (2024). Effective Internship Evaluation Strategies in 2024. Ret
 
 iii) National Association of Colleges and Employers (NACE). (n.d.). 15 Best Practices for Internship Programs. Retrieved from https://www.naceweb.org/talent-acquisition/internships/15-best-practices-for-internship-programs/
 
-iv) InternBridge. (n.d.). Internship Program Best Practices: Creating a High-Impact Internship Program. Retrieved December 23, 2024, from https://internbridge.com
+iv) Firouzeh Moeinzadeh, Sayed, Bijan Iraj, Mortazavi, M., & Vajiheh Vafamehr. (2021). Designing, implementation, and evaluation of internship comprehensive system for assessment and monitoring. Journal of Education and Health Promotion, 10(1), 93–93. https://doi.org/10.4103/jehp.jehp_626_20
 
-v) Google. (2024). Flutter Documentation. Retrieved December 23, 2024, from https://flutter.dev/docs
+v) InternBridge. (n.d.). Internship Program Best Practices: Creating a High-Impact Internship Program. Retrieved December 23, 2024, from https://internbridge.com
 
-vi) Firebase. (n.d.). Firebase Documentation. Google. Retrieved December 23, 2024, from https://firebase.google.com/docs
+vi) Google. (2024). Flutter Documentation. Retrieved December 23, 2024, from https://flutter.dev/docs
 
-vii) Google. (2024). Android Developers: Compatibility and Support. Retrieved December 23, 2024, from https://developer.android.com/guide
+vii) Firebase. (n.d.). Firebase Documentation. Google. Retrieved December 23, 2024, from https://firebase.google.com/docs
+
+viii) Google. (2024). Android Developers: Compatibility and Support. Retrieved December 23, 2024, from https://developer.android.com/guide
 
