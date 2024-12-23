@@ -78,10 +78,10 @@ The **INTERNOVA** platform is designed for the following groups:
    - Streamline the internship evaluation process and enhance the overall experience.  
    - Identify high-performing interns for potential future opportunities.
 
-**5. Preferred platform** <br/>
+**5. Preferred platform** 
 With Firebase serving as the back-end, Internova will use Flutter for cross-platform development with an eye towards Android. This strategy complies with market trends for affordable, high-performing mobile solutions while guaranteeing accessibility for students and young professionals. It has responsive features like document sharing, progress monitoring, and real-time feedback and is portable.
 
-**6. Features and functionalities** <br/>
+**6. Features and functionalities** 
 📲 *Authentication:*
 - User login and registration with Firebase Authentication (supporting email, Google, or social logins).
 - Secure authentication flow with email verification and password reset options.
@@ -110,7 +110,7 @@ With Firebase serving as the back-end, Internova will use Flutter for cross-plat
 
 ## Requirement Analysis
 
-**1. Technical Feasibility/Back-End Assessments** <br/>
+**1. Technical Feasibility/Back-End Assessments** 
 🔖 *Platform:*
 - Flutter: Enables rapid development with reusable widgets, ensuring consistent UI across Android devices.
 
