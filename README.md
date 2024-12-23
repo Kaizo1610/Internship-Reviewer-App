@@ -4,11 +4,11 @@ This project is a mobile application developed using Flutter, designed to help s
 # Group Details
 ### Group Name: Triple-A
 
-|                    Name                   |    Matric Number     |                                          Tasks                                                              |
-|-------------------------------------------|----------------------|-------------------------------------------------------------------------------------------------------------|                                 
-|      MOHAMAD AIMAN AKIM BIN ADANAN        |       2113823        |             Complete the title, background problem, app compatibility and screen navigation flow            |
-|            MUHAMMAD BIN ABAS              |       2113201        |                        Complete the objective, target user, and sequence diagram                            |
-|       ARIF MUQRI BIN AHMAD NAZIRI         |       2113825        |             Complete the preferred platform, features/functionalities, and technical feasibility            |
+|                    Name                   |    Matric Number     |                                          Tasks                                                                            |
+|-------------------------------------------|----------------------|---------------------------------------------------------------------------------------------------------------------------|                                 
+|      MOHAMAD AIMAN AKIM BIN ADANAN        |       2113823        |             Complete the title, background problem, app compatibility screen navigation flow, Gantt chart, and references  |
+|            MUHAMMAD BIN ABAS              |       2113201        |                        Complete the objective, target user, sequence diagram, and references                               |
+|       ARIF MUQRI BIN AHMAD NAZIRI         |       2113825        |             Complete the preferred platform, features/functionalities, technical feasibility, and references               |
 
 
 # Case Study 1
