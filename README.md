@@ -65,6 +65,25 @@ Both parties stay updated and aligned on the intern's performance and goals thro
 
 **4. Target user**
 
+The **INTERNOVA** platform is designed for the following groups:  
+
+1. **Interns:**  
+   - Receive structured feedback and track progress.  
+   - Communicate effectively with mentors or supervisors.  
+   - Understand strengths, weaknesses, and areas for improvement.  
+
+2. **Supervisors and Mentors:**  
+   - Provide consistent and fair evaluations using standardized templates.  
+   - Track intern performance and communicate through a centralized platform.  
+
+3. **HR Teams or Internship Coordinators:**  
+   - Oversee the progress and performance of all interns.  
+   - Ensure evaluations are fair, consistent, and aligned with organizational policies.  
+
+4. **Employers or Organizations:**  
+   - Streamline the internship evaluation process and enhance the overall experience.  
+   - Identify high-performing interns for potential future opportunities.
+
 **5. Preferred platform** <br/>
 With Firebase serving as the back-end, Internova will use Flutter for cross-platform development with an eye towards Android. This strategy complies with market trends for affordable, high-performing mobile solutions while guaranteeing accessibility for students and young professionals. It has responsive features like document sharing, progress monitoring, and real-time feedback and is portable.
 
