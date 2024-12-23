@@ -155,3 +155,21 @@ With Firebase serving as the back-end, Internova will use Flutter for cross-plat
 
 <img src="Screen Navigation Flow.png" alt="Screen Navigation Flow" width="700" height="500">
 
+
+## Planning
+
+**Gantt Chart**
+
+<img src="Screen Navigation Flow.png" alt="Screen Navigation Flow" width="700" height="500">
+
+
+## References
+
+i) 
+
+ii) 
+
+iii) Firebase. (n.d.). Firebase Documentation. Google. Retrieved December 23, 2024, from https://firebase.google.com/docs
+
+iv) Google. (2024). Android Developers: Compatibility and Support. Retrieved December 23, 2024, from https://developer.android.com/guide
+
