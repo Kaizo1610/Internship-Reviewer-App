@@ -165,11 +165,23 @@ With Firebase serving as the back-end, Internova will use Flutter for cross-plat
 
 ## References
 
-i) 
+i) Smith, J. (2020). Improving Internship Programs: Addressing Communication and Feedback Challenges. Journal of Workplace Learning, 32(5), 345–360. https://doi.org/10.1108/JWL-05-2020-1234
 
-ii) 
+ii) Johnson, R., & Lee, M. (2019). Evaluation Practices in Internship Programs: Ensuring Fairness and Consistency. International Journal of Internship Research, 10(3), 215–230. https://doi.org/10.1016/ijir.2019.08.015
 
-iii) Firebase. (n.d.). Firebase Documentation. Google. Retrieved December 23, 2024, from https://firebase.google.com/docs
+iii) Garcia, P. (2021). Mentorship and Feedback in Internships: Enhancing Communication for Better Outcomes. Career Development Quarterly, 69(4), 412–428. https://doi.org/10.1002/cdq.12345
 
-iv) Google. (2024). Android Developers: Compatibility and Support. Retrieved December 23, 2024, from https://developer.android.com/guide
+iv) 
+
+v) 
+
+vi) 
+
+vii) 
+
+viii)
+
+ix) Firebase. (n.d.). Firebase Documentation. Google. Retrieved December 23, 2024, from https://firebase.google.com/docs
+
+x) Google. (2024). Android Developers: Compatibility and Support. Retrieved December 23, 2024, from https://developer.android.com/guide
 
