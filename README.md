@@ -38,13 +38,15 @@ The purpose of INTERNOVA is to improve the internship experience for both intern
    A standardized evaluation system is used for all interns to ensure consistency and fairness in assessments.  
 
 4. **Tracking Progress:**  
-   A progress dashboard helps interns and employers monitor completed tasks, achievements, and skill development in real time.  
+   A progress dashboard helps interns and employers monitor completed tasks, achievements, and skill development in real-time.  
 
 ---
 
 ### Example Scenario  
 
-An intern submits a project through the platform. The supervisor:  
+An intern submits a project through the platform. 
+
+The supervisor:  
 - Completes an evaluation form with comments and a score.  
 - Sends feedback directly to the intern.  
 
@@ -149,7 +151,7 @@ With Firebase serving as the back-end, Internova will use Flutter for cross-plat
 
 **3. Sequence Diagram**
 
-<img src="Sequence Diagram.png" alt="Sequence Diagram" width="700" height="1000">
+<img src="Sequence Diagram.png" alt="Sequence Diagram" width="700" height="500">
 
 
 **4. Screen Navigation Flow**
