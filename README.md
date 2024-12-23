@@ -24,9 +24,6 @@ Internship Reviewer Application (INTERNOVA)
 - *Tracking Progress:* It’s difficult for both interns and employers to track progress and achievements during the internship.
 
 **3. Purpose or objective**
-# Internship Reviewer Application (INTERNOVA)
-
-## Objective  
 
 The purpose of INTERNOVA is to improve the internship experience for both interns and employers by:  
 
