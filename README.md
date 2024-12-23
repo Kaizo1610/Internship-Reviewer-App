@@ -156,7 +156,7 @@ With Firebase serving as the back-end, Internova will use Flutter for cross-plat
 
 **Gantt Chart**
 
-<img src="Internova Gantt Chart.png" alt="Screen Navigation Flow" width="700" height="500">
+<img src="Internova Gantt Chart1.png" alt="Gantt Chart" width="700" height="500">
 
 ---
 
