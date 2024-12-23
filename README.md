@@ -56,13 +56,6 @@ Both parties stay updated and aligned on the intern's performance and goals thro
 
 ---
 
-## Features  
-
-- **Structured Evaluation Forms**  
-- **Real-Time Messaging System**  
-- **Progress Tracking Dashboard**  
-- **Standardized Review Templates**
-
 **4. Target user**
 
 The **INTERNOVA** platform is designed for the following groups:  
@@ -112,6 +105,7 @@ With Firebase serving as the back-end, Internova will use Flutter for cross-plat
 - Upload resumes, reports, or certificates directly to Firebase Storage.
 - Share documents with mentors or employers via in-app links or external sharing options.
 
+---
 
 ## Requirement Analysis
 
@@ -155,6 +149,7 @@ With Firebase serving as the back-end, Internova will use Flutter for cross-plat
 
 <img src="Screen Navigation Flow.png" alt="Screen Navigation Flow" width="700" height="500">
 
+---
 
 ## Planning
 
@@ -162,6 +157,7 @@ With Firebase serving as the back-end, Internova will use Flutter for cross-plat
 
 <img src="Screen Navigation Flow.png" alt="Screen Navigation Flow" width="700" height="500">
 
+---
 
 ## References
 
