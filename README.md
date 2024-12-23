@@ -17,8 +17,7 @@ This project is a mobile application developed using Flutter, designed to help s
 **1. Title:**
 Internship Reviewer Application (INTERNOVA)
 
-**2. Background of the problem**
-
+**2. Background of the problem** </br>
 - Interns often don’t receive consistent or organized feedback on their performance.
 - Interns lack clear channels to communicate with mentors or supervisors.
 - Internship assessments vary widely, leading to unfair evaluations.
@@ -57,8 +56,7 @@ Both parties stay updated and aligned on the intern's performance and goals thro
 
 ---
 
-**4. Target user**
-
+**4. Target user** </br>
 The **INTERNOVA** platform is designed for the following groups:  
 
 1. **Interns:**  
@@ -78,10 +76,10 @@ The **INTERNOVA** platform is designed for the following groups:
    - Streamline the internship evaluation process and enhance the overall experience.  
    - Identify high-performing interns for potential future opportunities.
 
-**5. Preferred platform** 
+**5. Preferred platform** </br>
 With Firebase serving as the back-end, Internova will use Flutter for cross-platform development with an eye towards Android. This strategy complies with market trends for affordable, high-performing mobile solutions while guaranteeing accessibility for students and young professionals. It has responsive features like document sharing, progress monitoring, and real-time feedback and is portable.
 
-**6. Features and functionalities** 
+**6. Features and functionalities** </br>
 📲 *Authentication:*
 - User login and registration with Firebase Authentication (supporting email, Google, or social logins).
 - Secure authentication flow with email verification and password reset options.
@@ -110,7 +108,7 @@ With Firebase serving as the back-end, Internova will use Flutter for cross-plat
 
 ## Requirement Analysis
 
-**1. Technical Feasibility/Back-End Assessments** 
+**1. Technical Feasibility/Back-End Assessments** </br>
 🔖 *Platform:*
 - Flutter: Enables rapid development with reusable widgets, ensuring consistent UI across Android devices.
 
@@ -121,8 +119,7 @@ With Firebase serving as the back-end, Internova will use Flutter for cross-plat
 - Firebase Cloud Messaging (FCM): Handles push notifications for engagement.
 
 
-**2. App Compatibility**
-
+**2. App Compatibility** </br>
 🎯 *Operating System Compatibility*
 - Minimum Android Version: Android 8.0 (Oreo) and above.
 - The app will be optimized for the most common Android versions to ensure maximum reach among users.
